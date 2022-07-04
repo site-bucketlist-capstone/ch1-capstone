@@ -4,11 +4,11 @@
 
 SITE Course Year: **2022**
 
-Cohort: **Add Company Sponsor Name**
+Cohort: Course Hero
 
 Team Member Names: Abdullah Saleh, Amantina Rossi, Hawo Issa
 
-Mentors Names: **Insert Professional Mentor Names**
+Mentors Names: Arif, Irving, Naomi
 
 Project Code Repository Links
 
