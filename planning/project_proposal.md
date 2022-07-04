@@ -5,7 +5,7 @@ Abdullah S., Amantina R., Hawo I.
 
 ## Problem Statement
 
-2-4 years in college fly by. College students struggle to push their bubbles and explore all the social possibilities during their time in school. 
+2-4 years in college fly by. College students struggle to go outside of their bubbles and explore all the social possibilities during their time in school. 
 
 ## Description
 
@@ -28,10 +28,10 @@ The purpose of our project is to provide college students with a way to organize
 
 What similar apps and websites? How will your project stand out from these other websites?
 
-There are plenty of college bucket list articles on the internet, but no tools for college students to organize and prioritize the things they actually want to do. Other list or note taking websites don't focus in on this act of intentionally listing out the various activities a student aims to engage in during their time in college. Additionally, our website will combine features like budget consciousness and data analysis/visualization to help students reflect on how they are spending their time and money in school. 
+There are plenty of college bucket list articles on the internet (a quick google search of college bucket list will result in over 20 pages worth), but no tools for college students to organize and prioritize the things they actually want to do. Other list or note taking websites like Notion don't focus in on this act of intentionally listing out the various activities a student aims to engage in during their time in college. Additionally, our website will combine features like budget consciousness and data analysis/visualization to help students reflect on how they are spending their time and money in school. 
 
 ## Open Questions
 
 What questions do you still have? What topics do you need to research more for your project?
 
-We are still needing to figure out what features will fit within the scope of our timeline and skillset. We need to continue our research and practice with advanced database and SQL skills. We also need to learn how to execute socio-technical system features such as following or favoriting other users/user content. 
+We are still needing to figure out what features will fit within the scope of our timeline and skillset. We need to continue our research and practice with advanced database and SQL skills. We also need to learn how to execute socio-technical system features such as following or favoriting other users/user content. We want to know how to best split up the project to ensure we can use our skills in the most efficient way possible. 
