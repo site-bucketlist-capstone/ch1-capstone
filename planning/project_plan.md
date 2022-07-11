@@ -8,7 +8,13 @@ Insert the latest summary of your problem statement and app description.
 
 ## User Roles and Personas
 
-Include the most up-to-date user roles and personas.
+User Roles:
+College Students: anybody that is enrolled in a 2 year, bachelors, masters, or phd college program
+
+User Personas: 
+1. Kowsar Senn is a senior at MIT studying Computer Science. Kowsar realizes she spent the last years in college prioritizing school/assignments and barely made any memories with friends outside of the classroom. She decided she will make the most out of her last year but is struggling to find activities and a community of students with similar goals as her. 
+2. Afnaan Adventurous is a college freshman at Stanford University who is excited to make the most out of his college experience at his dream school. After attending his school's new student orientation, he was left feeling overwhelmed with the mountain of resources offered to him about clubs, sporting events, networking opportunities, greek life, school traditions and more. He knows he wants to try as much as possible, but doesn’t quite know where to start. 
+
 
 ## User Stories
 
