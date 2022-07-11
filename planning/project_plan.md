@@ -24,7 +24,7 @@ User Personas:
 - See notes on [document](https://docs.google.com/document/d/17RzLXjAoASDjZkZ1S-_E1THw5aOJE6ZJ2LDzNlQpNyY/edit) about updating user stories
 
 
-## Pages/Screens
+## Pages/Screens (more details on [Figma File](https://www.figma.com/file/4EbBmJGVzKDViA17hQsugc/wireframes?node-id=0%3A1))
 
 - Unathenticated Landing
 - Sign In
