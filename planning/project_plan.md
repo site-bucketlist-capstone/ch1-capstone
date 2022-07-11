@@ -21,7 +21,7 @@ User Personas:
 
 
 ## User Stories
-- See notes on (document)[https://docs.google.com/document/d/17RzLXjAoASDjZkZ1S-_E1THw5aOJE6ZJ2LDzNlQpNyY/edit] about updating user stories
+- See notes on [document](https://docs.google.com/document/d/17RzLXjAoASDjZkZ1S-_E1THw5aOJE6ZJ2LDzNlQpNyY/edit) about updating user stories
 
 
 ## Pages/Screens
