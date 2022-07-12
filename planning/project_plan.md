@@ -21,7 +21,17 @@ User Personas:
 
 
 ## User Stories
-- See notes on [document](https://docs.google.com/document/d/17RzLXjAoASDjZkZ1S-_E1THw5aOJE6ZJ2LDzNlQpNyY/edit) about updating user stories
+- As a college student, I want to create a bucket list profile, so that I can keep a record of my college bucket lists
+- As a college student, I want to create a new bucket list, so that I can begin to organize and prioritize the many social opportunities at my school
+- As a college student, I want to create a new bucket list item, so that I can record details about an activity/experience I want explore and hold myself accountable
+- As a college student, I want to note the cost of a bucket list item, so that I can be conscious of my budget when deciding activities to complete
+- As a college student, I want to note the location of a bucket list item, so I can evaluate what methods of transportation are available to me before attempting the activity
+- As a college student, I want to be reminded of when a bucket list item is/how long I have to complete it, so that I can hold myself accountable to try and complete as many bucket list items as possible
+- As a college student, I want to give my lists and list items specific names/categories/icons, so that my bucket lists reflect my interests and hobbies.
+- As a college student, I would like to edit a list item, so I can change date/location/price if needed.
+- As a college student, I would like to remove a list, so I can get rid of a list that I have lost interest in or am unable to do anymore.
+- As a college student, I want to see all my past accomplishments, so that I can reflect on what I’ve done in college so far and plan on what I want to accomplish on my bucket list in the future
+
 
 
 ## Pages/Screens (more details on [Figma File](https://www.figma.com/file/4EbBmJGVzKDViA17hQsugc/wireframes?node-id=0%3A1))
