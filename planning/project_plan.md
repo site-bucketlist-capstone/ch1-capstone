@@ -21,16 +21,16 @@ User Personas:
 
 
 ## User Stories
-- As a college student, I want to create a bucket list profile, so that I can keep a record of my college bucket lists
-- As a college student, I want to create a new bucket list, so that I can begin to organize and prioritize the many social opportunities at my school
-- As a college student, I want to create a new bucket list item, so that I can record details about an activity/experience I want explore and hold myself accountable
-- As a college student, I want to note the cost of a bucket list item, so that I can be conscious of my budget when deciding activities to complete
-- As a college student, I want to note the location of a bucket list item, so I can evaluate what methods of transportation are available to me before attempting the activity
-- As a college student, I want to be reminded of when a bucket list item is/how long I have to complete it, so that I can hold myself accountable to try and complete as many bucket list items as possible
-- As a college student, I want to give my lists and list items specific names/categories/icons, so that my bucket lists reflect my interests and hobbies.
-- As a college student, I would like to edit a list item, so I can change date/location/price if needed.
-- As a college student, I would like to remove a list, so I can get rid of a list that I have lost interest in or am unable to do anymore.
-- As a college student, I want to see all my past accomplishments, so that I can reflect on what I’ve done in college so far and plan on what I want to accomplish on my bucket list in the future
+1. As a college student, I want to create a bucket list profile, so that I can keep a record of my college bucket lists
+2. As a college student, I want to create a new bucket list, so that I can begin to organize and prioritize the many social opportunities at my school
+3. As a college student, I want to create a new bucket list item, so that I can record details about an activity/experience I want explore and hold myself accountable
+4. As a college student, I want to note the cost of a bucket list item, so that I can be conscious of my budget when deciding activities to complete
+5. As a college student, I want to note the location of a bucket list item, so I can evaluate what methods of transportation are available to me before attempting the activity
+6. As a college student, I want to be reminded of when a bucket list item is/how long I have to complete it, so that I can hold myself accountable to try and complete as many bucket list items as possible
+7. As a college student, I want to give my lists and list items specific names/categories/icons, so that my bucket lists reflect my interests and hobbies.
+8. As a college student, I would like to edit a list item, so I can change date/location/price if needed.
+9. As a college student, I would like to remove a list, so I can get rid of a list that I have lost interest in or am unable to do anymore.
+10. As a college student, I want to see all my past accomplishments, so that I can reflect on what I’ve done in college so far and plan on what I want to accomplish on my bucket list in the future
 
 
 
