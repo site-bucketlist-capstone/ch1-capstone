@@ -43,19 +43,29 @@ User Personas:
 <img width="421" alt="Screen Shot 2022-07-11 at 11 38 00 AM" src="https://user-images.githubusercontent.com/75582135/178335617-9dd4d11f-2d41-4da9-8180-1be139156bac.png">
 
 - Authenticated Landing/Dashboard
-<img width="1074" alt="Screen Shot 2022-07-11 at 11 38 12 AM" src="https://user-images.githubusercontent.com/75582135/178335651-63ddc7d4-45e1-4e24-8684-4c030372b9b2.png">
+![Screen Shot 2022-07-14 at 10 40 11 AM](https://user-images.githubusercontent.com/75582135/179048348-602f7eac-6ec8-493b-bec0-2fac75440301.png)
+
 
 - Profile Page
-<img width="1260" alt="Screen Shot 2022-07-11 at 11 39 08 AM" src="https://user-images.githubusercontent.com/75582135/178335696-752926de-e8a4-40d3-a06d-0d42cd93c970.png">
+![Screen Shot 2022-07-14 at 10 41 42 AM](https://user-images.githubusercontent.com/75582135/179048388-6d3d09c3-71c9-4671-a88c-74b84269d2d7.png)
+
 
 - New List
-<img width="1267" alt="Screen Shot 2022-07-11 at 11 39 00 AM" src="https://user-images.githubusercontent.com/75582135/178335714-37596c35-324a-4711-948a-ee066fcdd92f.png">
+![Screen Shot 2022-07-14 at 10 41 24 AM](https://user-images.githubusercontent.com/75582135/179048426-95e3625d-f9e8-4296-ac8f-6c8e33b85bfc.png)
+
+-Completed Items
+![Screen Shot 2022-07-14 at 10 41 52 AM](https://user-images.githubusercontent.com/75582135/179048479-4f62300b-4552-4ba1-9e8e-bf82bff69c7c.png)
+
+-Item Gallery
+![Screen Shot 2022-07-14 at 10 40 51 AM](https://user-images.githubusercontent.com/75582135/179048522-ae75e1f9-d5fb-4094-b8e0-1f483f76a3b8.png)
+
 
 - Edit List
 <img width="1088" alt="Screen Shot 2022-07-11 at 11 39 16 AM" src="https://user-images.githubusercontent.com/75582135/178335736-a9c95fbd-5b13-4f6d-b962-4854b8be421d.png">
 
 Full Wireframe
-<img width="1274" alt="Screen Shot 2022-07-11 at 11 40 54 AM" src="https://user-images.githubusercontent.com/75582135/178335769-db5f4d90-ec84-41c1-a9ed-f7da866c6260.png">
+![Screen Shot 2022-07-14 at 10 43 02 AM](https://user-images.githubusercontent.com/75582135/179048567-f6562d48-a669-4f94-b9f8-715ad35589b1.png)
+
 
 ## Data Model
 
