@@ -31,6 +31,7 @@ User Personas:
 8. As a college student, I would like to edit a list item, so I can change date/location/price if needed.
 9. As a college student, I would like to remove a list, so I can get rid of a list that I have lost interest in or am unable to do anymore.
 10. As a college student, I want to see all my past accomplishments, so that I can reflect on what I’ve done in college so far and plan on what I want to accomplish on my bucket list in the future
+11. As a college student, I would like to see a gallery full of list items, so that I can gain inspiration for my very own bucket list.
 
 
 
