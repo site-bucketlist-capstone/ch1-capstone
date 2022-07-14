@@ -59,10 +59,20 @@ Full Wireframe
 
 ## Data Model
 
-Describe your app's data model using diagrams or tables
+Data Models:
+
+Database name: buckethero
+
+![Screen Shot 2022-07-14 at 10 36 29 AM](https://user-images.githubusercontent.com/75582135/179047164-78be626d-afbf-4999-9d54-dce6983cba22.png)
+![Screen Shot 2022-07-14 at 10 36 46 AM](https://user-images.githubusercontent.com/75582135/179047211-273a26c6-78e3-4e56-8278-6cc1aaefcf83.png)
+![Screen Shot 2022-07-14 at 10 37 12 AM](https://user-images.githubusercontent.com/75582135/179047285-a219b327-4950-40ac-ad3c-5c6365812693.png)
+
 
 ## Endpoints
 
-List the API endpoints you will need to implement.
+Endpoints:
+![Screen Shot 2022-07-14 at 10 37 55 AM](https://user-images.githubusercontent.com/75582135/179047405-9b2f77fa-6086-4e55-9216-f40d411207f8.png)
+
+
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
