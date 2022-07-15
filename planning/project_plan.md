@@ -65,7 +65,8 @@ User Personas:
 <img width="1088" alt="Screen Shot 2022-07-11 at 11 39 16 AM" src="https://user-images.githubusercontent.com/75582135/178335736-a9c95fbd-5b13-4f6d-b962-4854b8be421d.png">
 
 Full Wireframe
-![Screen Shot 2022-07-14 at 10 43 02 AM](https://user-images.githubusercontent.com/75582135/179048567-f6562d48-a669-4f94-b9f8-715ad35589b1.png)
+<img width="1273" alt="Screen Shot 2022-07-15 at 10 58 51 AM" src="https://user-images.githubusercontent.com/75582135/179283611-5f58cfa7-c0ed-4b0d-a321-0243e9b59e62.png">
+
 
 
 ## Data Model
