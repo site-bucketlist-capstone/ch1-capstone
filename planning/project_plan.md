@@ -8,7 +8,7 @@ Problem Statement:
 2-4 years in college fly by. College students struggle to go outside of their bubbles and explore all the social possibilities during their time in school, especially when faced with mountains of information about different opportunities at their college.
 
 Description:
-The purpose of our project is to provide college students with a way to organize and prioritize all of the events, locations, clubs, experiences, and more that they may want to explore and try. Our website's main feature would be a bucket list creator that allows students to include custom entries to populate their running bucket list, as well as check off items once they've been accomplished. Each entry can include details such as category, location, date, and cost. Additionally, students using our website will be able to share their lists with others and see what's on other's bucket lists so they can be inspired to continue adding to their own.
+The purpose of our project is to provide college students with a way to organize and prioritize all of the events, locations, clubs, experiences, and more that they may want to explore and try. Our website's main feature would be a bucket list creator that allows students to include custom entries to populate their running bucket lists, as well as check off items once they've been accomplished. Each entry can include details such as category, location, date, and cost. Additionally, students using our website will be able to view a global list of entries from other users to gain inspiration for their own lists.
 
 ## User Roles and Personas
 
