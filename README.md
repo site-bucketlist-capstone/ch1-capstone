@@ -1,4 +1,3 @@
-📝 `NOTE` Use this template repo to initialize the contents of your group's capstone repo project. As you work on your assignment over the course of the week, update the appropriate repo deliverables. All project planning should be included in the planning directory. (🚫 Remove this paragraph before submitting your assignment.)
 
 # SITE Capstone Project
 
@@ -12,8 +11,8 @@ Mentors Names: Arif, Irving, Naomi
 
 Project Code Repository Links
 
-* [Frontend Repo Link]()
-* [Backend Repo Link]()
+* [Frontend and Backend Repo Link](https://github.com/site-bucketlist-capstone/buckethero)
+
 
 ## Project Overview
 
