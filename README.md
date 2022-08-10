@@ -16,10 +16,11 @@ Project Code Repository Links
 
 ## Project Overview
 
-Add a quick summary of what your project theme and objectives are. 
+Bucket Hero will help you organize all of the events, locations, clubs, experiences, and more that you may want to explore and try in your time at school. Go outside of your bubble, get social, and get started now!
 
-Deployment Website: **Add Link to Deployed Project**
+Deployment Website: **https://buckethero.surge.sh/**
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
+- https://tailwindcss.com/
+- https://www.npmjs.com/package/emoji-picker-react
